@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SatyapriyaBiswasDev
+- 👀 I’m interested in web devlopment
+- 🌱 I’m currently learning backend devlopment.
+- 📫 How to reach me satyapriyabiswas.2005@gmail.com
+- ⚡ Fun fact: ... IF A CODE WORKS THEN DONT TOUCH IT AGAIN 
